@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1616832398 source:g:\graphics code\circle implementlab5\lab5.c
+	<GL/gl.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+
