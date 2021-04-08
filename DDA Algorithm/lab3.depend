@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1614366957 source:g:\graphics code\lab3\labtask3.c
+	<GL/gl.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+
