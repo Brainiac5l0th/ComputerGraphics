@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1612545235 source:g:\graphics code\lab task 1\labtask1.c
+	<GL/glut.h>
+	<windows.h>
+
