@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1617706890 source:g:\graphics code\saheed minar\lab6.c
+	<GL/gl.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+
